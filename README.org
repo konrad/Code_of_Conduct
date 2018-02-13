@@ -47,10 +47,10 @@ any harassing behaviors.
 Thank you for helping make this a welcoming, friendly community for
 all.
 
-/This code of conduct is a modified version of the [[https://software-carpentry.org/conduct/][one by Software
+This code of conduct is a modified version of the [[https://software-carpentry.org/conduct/][one by Software
 Carpentry]] that itself based on the one used by PyCon, which in turn is
 forked from a template written by the Ada Initiative and hosted on the
 Geek Feminism Wiki. Contributors to this document: Adam Obeng,
 Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar
 Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon
-Waldman, Tracy Teal./
+Waldman, Tracy Teal.
