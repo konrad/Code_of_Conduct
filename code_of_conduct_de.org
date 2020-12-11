@@ -60,8 +60,7 @@ Dies gilt für alle Veranstaltungen, Gruppentreffen und Plattformen, entweder on
 Vielen Dank, dass ihr dazu beitragt, dies zu einer einladenden, freundlichen Gemeinschaft für
 alle zu machen.
 
-Dieser Verhaltenskodex ist eine modifizierte Version des [[https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html]]s
-Carpentries]], der wiederum auf dem von der PyCon verwendeten basiert, der wiederum
+Dieser Verhaltenskodex ist eine modifizierte Version des [[https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html][Code of Conduct von The Carpentries]], der wiederum auf dem von der PyCon verwendeten basiert, der wiederum
 von einer Vorlage abgeleitet ist, die von der Ada Initiative geschrieben wurde und auf dem
 Geek-Feminismus-Wiki. Mitwirkende an diesem Dokument: Adam Obeng,
 Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar
