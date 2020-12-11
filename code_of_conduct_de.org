@@ -1,0 +1,69 @@
+#+TITEL: Verhaltenskodex - PB Data Science and Services und Förstner Lab bei ZB MED
+
+*Teil 1. Einleitung*
+
+Wir sind bestrebt, einen freundlichen und respektvollen Arbeitsort zu schaffen. 
+Von allen Teilnehmenden an unseren Veranstaltungen und unserer Kommunikation wird erwartet, dass sie anderen gegenüber Respekt und Höflichkeit zeigen.
+
+Um deutlich zu machen, was erwartet wird, ist jede/r, der an unserer Gruppe teilnimmt, verpflichtet, den Verhaltenskodex einzuhalten. 
+Dieser Verhaltenskodex gilt für alle Arbeitsräume, insbesondere für E-Mail-Listen, Gruppenchats und Online-Meetings.
+
+Für die Durchsetzung des Verhaltenskodex sind Konrad Förstner und unsere Gleichstellungsbeauftragte zuständig. 
+Sie können per E-Mail kontaktiert werden:
+- Konrad Förstner: foerstner@zbmed.de 
+- Gleichstellungsbeauftragte: gleichstellung@zbmed.de
+
+*Teil 2. Der Carpentries-Verhaltenskodex*
+
+Unsere Gruppe ist bestrebt, eine einladende und unterstützende Umgebung für alle Menschen zu schaffen, unabhängig von ihrer Herkunft oder Identität. 
+Daher tolerieren wir kein Verhalten, das respektlos gegenüber unseren Gruppenmitgliedern ist oder das andere ausschließt, einschüchtert oder ihnen 
+Unbehagen bereitet. Wir tolerieren keine Diskriminierung oder Belästigung aufgrund von Merkmalen wie z. B. Geschlechtsidentität und -ausdruck, 
+sexuelle Orientierung, Behinderung, körperliche Erscheinung, Körpergröße, Staatsbürgerschaft, Nationalität, ethnische oder soziale Herkunft, 
+Schwangerschaft, Familienstand, Veteranenstatus, genetische Informationen, Religion oder Weltanschauung (oder deren Fehlen), 
+Zugehörigkeit zu einer nationalen Minderheit, Eigentum, Alter, Bildung, sozioökonomischer Status, technische Entscheidungen und Erfahrungsniveau.
+
+*Teil 2.1 Erwartetes Verhalten*
+
+Von allen Gruppenmitgliedern wird bei unseren Veranstaltungen, Treffen und Kommunikationen erwartet, dass sie anderen gegenüber Respekt und Höflichkeit zeigen. 
+Alle Interaktionen sollten professionell sein, unabhängig von der Plattform: entweder online oder persönlich. 
+Um ein positives und professionelles Arbeitsumfeld zu fördern, ermutigen wir die folgenden Verhaltensweisen in allen unseren Veranstaltungen, Meetings und Plattformen:
+
+- Verwendet eine einladende und inklusive Sprache
+- Seid respektvoll gegenüber unterschiedlichen Standpunkten und Erfahrungen
+- Akzeptiert konstruktive Kritik mit Würde
+- Konzentriert euch darauf, was das Beste für die Gemeinschaft ist
+- Zeigt Höflichkeit und Respekt gegenüber anderen Community-Mitgliedern
+
+*Teil 2.2 Inakzeptables Verhalten*
+
+Beispiele für inakzeptables Verhalten von Teilnehmern an einer Veranstaltung/Plattform von Carpentries sind
+
+- schriftliche oder verbale Äußerungen, die dazu führen, dass Menschen aufgrund ihrer Zugehörigkeit zu einer bestimmten Gruppe ausgeschlossen werden
+- jemanden dazu bringen, um seine Sicherheit zu fürchten, z. B. durch Stalking, Verfolgung oder Einschüchterung
+- gewalttätige Drohungen oder Sprache, die gegen eine andere Person gerichtet sind
+- das Zeigen von sexuellen oder gewalttätigen Bildern
+- Unerwünschte sexuelle Aufmerksamkeit
+- nicht einvernehmlichen oder unerwünschten Körperkontakt
+- Anhaltende Störung von Gesprächen, Veranstaltungen oder Kommunikation
+- Beleidigungen oder Herabsetzungen
+- sexistische, rassistische, homophobe, transphobe, ableistische oder ausgrenzende Witze
+- übermäßiges Fluchen
+- Aufstachelung zu Gewalt, Selbstmord oder Selbstbeschädigung
+- Fortsetzung der Interaktion (einschließlich Fotografieren oder Aufnehmen) mit einer Person, nachdem sie aufgefordert wurde, damit aufzuhören
+- Veröffentlichung von privater Kommunikation ohne Zustimmung
+
+*Teil 2.3 Konsequenzen für inakzeptables Verhalten
+
+Von Gruppenmitgliedern, die aufgefordert werden, unangemessenes Verhalten einzustellen, wird erwartet, dass sie dem sofort nachkommen. 
+Dies gilt für alle Veranstaltungen, Gruppentreffen und Plattformen, entweder online oder persönlich.
+
+Vielen Dank, dass ihr dazu beitragt, dies zu einer einladenden, freundlichen Gemeinschaft für
+alle zu machen.
+
+Dieser Verhaltenskodex ist eine modifizierte Version des [[https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html]]s
+Carpentries]], der wiederum auf dem von der PyCon verwendeten basiert, der wiederum
+von einer Vorlage abgeleitet ist, die von der Ada Initiative geschrieben wurde und auf dem
+Geek-Feminismus-Wiki. Mitwirkende an diesem Dokument: Adam Obeng,
+Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar
+Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon
+Waldman, Tracy Teal.
