@@ -1,4 +1,4 @@
-#+TITEL: Verhaltenskodex - PB Data Science and Services und Förstner Lab bei ZB MED
+#+TITLE: Verhaltenskodex - PB Data Science and Services und Förstner Lab bei ZB MED
 
 *Teil 1. Einleitung*
 
