@@ -1,1 +1,4 @@
 #+TITLE: Code of conduct - PB Data Science and Services and Förstner Lab at ZB MED
+
+- View [[https://github.com/RabeaMue/Code_of_Conduct/blob/main/code_of_conduct_en.org][English Version]]
+- View [[https://github.com/RabeaMue/Code_of_Conduct/blob/main/code_of_conduct_de.org][German Version]]
